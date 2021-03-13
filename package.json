@@ -1,0 +1,23 @@
+{
+  "name": "doexpress",
+  "version": "1.0.0",
+  "description": "node/express app to do",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/NduO/doexpress"
+  },
+  "keywords": [
+    "nodejs",
+    "expressjs",
+    "digitalocean"
+  ],
+  "author": "Ndu Okenimkpe",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
